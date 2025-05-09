@@ -57,14 +57,14 @@ Based on our discussion, we understand that you require the following key compon
 
 | Phase | Deliverables | Cost (PHP) |
 |-----------|---------|------------|
-| Phase 1: Landing Page & Branding | Company profile, responsive design, logo enhancement | ₱10,000 |
+| Phase 1: Landing Page & Branding | Company profile, responsive design, logo enhancement | ₱15,000 |
 | Phase 2: Content Management | CMS implementation, create/edit/delete functionality | ₱8,000 |
 | Phase 3: Forms & Downloads | Application forms, PDF conversion, downloadable reports | ₱7,000 |
 | Phase 4: Project Estimator | Basic project estimation tool with calculation functions | ₱8,000 |
 | Phase 5: GPS Tracking System | Advanced GPS-based truck and heavy equipment tracking with real-time monitoring, history playback, and mobile access | ₱50,000 |
-| **Subtotal (Development)** | **All phases combined** | **₱83,000** |
+| **Subtotal (Development)** | **All phases combined** | **₱88,000** |
 | Domain & Hosting (Annual) | Domain, hosting, SSL, email (first year) | ₱39,400 |
-| **TOTAL FIRST YEAR INVESTMENT** | **Development + Domain & Hosting** | **₱122,400** |
+| **TOTAL FIRST YEAR INVESTMENT** | **Development + Domain & Hosting** | **₱127,400** |
 
 **Benefits:**
 - Pay only for completed phases
