@@ -28,9 +28,9 @@ Thank you for your interest in our software development services. We are pleased
 
 | Component | Details | Cost (PHP) |
 |-----------|---------|------------|
-| Initial Development Fee | Per project setup and base implementation | ₱15,000 |
-| Ongoing Royalty | 1% of project revenue | 1% of gross revenue |
-| Additional Features | Price per major feature addition | ₱20,000 per feature |
+| Initial Development Fee | Per project setup and base implementation | ₱8,000 |
+| Ongoing Royalty | 0.5% of project revenue | 0.5% of gross revenue |
+| Additional Features | Price per major feature addition | ₱5,000 - ₱8,000 per feature |
 | Legal Requirement | Memorandum of Agreement (MOA) | Included |
 
 **Benefits:**
@@ -46,10 +46,10 @@ Thank you for your interest in our software development services. We are pleased
 
 | Component | Details | Cost (PHP) |
 |-----------|---------|------------|
-| Monthly Retainer | Core services, maintenance, and support | ₱40,000 - ₱50,000 per month |
+| Monthly Retainer | Core services, maintenance, and support | ₱10,000 - ₱15,000 per month |
 | Regular Check-ins | Monthly progress updates and support sessions | Included |
 | Basic Feature Updates | Minor tweaks and improvements | Included |
-| Major Upgrades | Significant new features or system changes | ₱20,000 per feature |
+| Major Upgrades | Significant new features or system changes | ₱5,000 - ₱8,000 per feature |
 | Payment Terms | Flexible payment schedule available | Monthly or quarterly options |
 
 **Benefits:**
@@ -65,10 +65,10 @@ Thank you for your interest in our software development services. We are pleased
 
 | Component | Details | Cost (PHP) |
 |-----------|---------|------------|
-| Base Package | Complete software with full source code ownership | ₱35,000 - ₱45,000 |
+| Base Package | Complete software with full source code ownership | ₱20,000 - ₱25,000 |
 | Intellectual Property | Full code ownership rights transferred | Included |
 | Knowledge Transfer | Documentation and training | Included |
-| Future Upgrades | Optional future development work | ₱35,000 - ₱45,000 per major revision |
+| Future Upgrades | Optional future development work | ₱8,000 - ₱12,000 per major revision |
 
 **Benefits:**
 - No recurring fees or royalties
