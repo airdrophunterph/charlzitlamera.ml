@@ -33,6 +33,15 @@ This quotation outlines the costs for integrating SMS notifications, email notif
 | Account Hierarchy Management | View and manage full network structure with permissions | ₱10,000 |
 | Cross-Account Reporting | Generate combined reports across multiple accounts/downlines | ₱7,500 |
 
+### 5. E-Commerce & Affiliate Features (Shopee-like)
+| Feature | Description | Cost (PHP) |
+|---------|-------------|---------|
+| Product Listing Platform | Complete product catalog with search and filter capabilities | ₱25,000 |
+| Product URL Duplication | Unique product URLs for affiliates with tracking parameters | ₱8,000 |
+| Affiliate Dashboard | Tracking sales, commissions, and performance metrics | ₱15,000 |
+| Product Sharing Tools | Social media integration and one-click share capabilities | ₱7,000 |
+| Multi-tier Commission System | Configurable commission rates for different affiliate levels | ₱12,000 |
+
 ## Maintenance & Support
 | Plan | Coverage | Cost (PHP) |
 |------|----------|------------|
