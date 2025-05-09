@@ -1,7 +1,7 @@
-# Quotation: MLM System Integrations (Philippine Freelancer Rates)
+# Quotation: MLM System Integrations 
 
 ## Overview
-This quotation outlines the costs for integrating SMS notifications, email notifications, branch-based POS system, and inventory management for your MLM business in the Philippines. POS and inventory system pricing is based on typical freelance programmer rates in the Philippines.
+This quotation outlines the costs for integrating SMS notifications, email notifications, branch-based POS system, and inventory management for your MLM business in the Philippines. POS and inventory system pricing is based on typical programmer rates in the Philippines.
 
 ## Detailed Pricing
 
@@ -9,20 +9,20 @@ This quotation outlines the costs for integrating SMS notifications, email notif
 | Feature | Description | Cost (PHP) |
 |---------|-------------|------------|
 | SMS Integration | Automated SMS notifications for order confirmations, shipping updates, and promotions | ₱1,500 |
-| Email Integration | Branded email notifications for system alerts, marketing campaigns, and member communications | ₱2,500 |
+| Email Integration | Branded email notifications for system alerts, marketing campaigns| ₱2,500 |
 
-### 2. Point of Sale (POS) System (Freelancer Rates)
+### 2. Point of Sale (POS) System 
 | Feature | Description | Cost (PHP) |
 |---------|-------------|-----------|
 | Base POS System | Core functionality with user management and reporting | ₱15,000 |
-| Per Branch Extension | Additional setup for each branch location | ₱10,000/branch |
+| Per Branch Extension | Additional setup for each branch location | ₱5,000/branch |
 | Cloud Synchronization | Real-time data syncing between branches | ₱20,000 |
 
-### 3. Inventory Management System (Freelancer Rates)
+### 3. Inventory Management System 
 | Feature | Description | Cost (PHP) |
 |---------|-------------|-----------|
-| Core Inventory System | Stock tracking, automated reordering, and product management | ₱35,000 |
-| MLM-Specific Features | Handling of distributor inventory, package deals, and promo bundles | ₱25,000 |
+| Core Inventory System | Stock tracking, and product management | ₱35,000 |
+| MLM-Specific Features | Handling of distributor inventory | ₱25,000 |
 | Analytics Dashboard | Comprehensive reporting and forecasting tools | ₱20,000 |
 
 
