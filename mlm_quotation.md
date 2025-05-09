@@ -25,6 +25,13 @@ This quotation outlines the costs for integrating SMS notifications, email notif
 | MLM-Specific Features | Handling of distributor inventory | ₱25,000 |
 | Analytics Dashboard | Comprehensive reporting and forecasting tools | ₱20,000 |
 
+### 4. MLM Multi-Account Features
+| Feature | Description | Cost (PHP) |
+|---------|-------------|---------|
+| Single Login Multi-Access | Access and manage multiple accounts/branches from single login | ₱12,000 |
+| Bulk Account Registration | "Activate 1, register many" feature for efficient downline creation | ₱8,500 |
+| Account Hierarchy Management | View and manage full network structure with permissions | ₱10,000 |
+| Cross-Account Reporting | Generate combined reports across multiple accounts/downlines | ₱7,500 |
 
 ## Maintenance & Support
 | Plan | Coverage | Cost (PHP) |
@@ -35,9 +42,9 @@ This quotation outlines the costs for integrating SMS notifications, email notif
 ## Additional Notes
 - All prices are in Philippine Pesos (₱)
 - Prices reflect typical Philippine programmer rates (not agency rates)
-- Prices shown as ranges to account for varying freelancer experience levels
+- Prices shown as ranges to account for varying programmer experience levels
 - Prices exclude applicable VAT/taxes
 - Hardware costs (terminals, scanners, printers) are not included
 - Quotation valid for 30 days from May 9, 2025
-- Development timeline will depend on freelancer availability and project complexity
-- Consider creating a detailed contract with your selected freelancer that includes specific deliverables, timeline, and payment terms
+- Development timeline will depend on programmer availability and project complexity
+- Consider creating a detailed contract with your selected programmer that includes specific deliverables, timeline, and payment terms
