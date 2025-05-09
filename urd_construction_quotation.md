@@ -39,7 +39,7 @@ Based on our discussion, we understand that you require the following key compon
    - Application form for potential clients/partners
    - Project estimator tool (overview functionality)
    - Downloadable reports with PDF conversion
-   - Unit tracking system
+   - GPS-based truck and heavy equipment tracking system
 
 4. **Legal & Compliance**
    - Terms of service and privacy policy
@@ -55,7 +55,8 @@ Based on our discussion, we understand that you require the following key compon
 | Phase 1: Landing Page & Branding | Company profile, responsive design, logo enhancement | ₱10,000 |
 | Phase 2: Content Management | CMS implementation, create/edit/delete functionality | ₱8,000 |
 | Phase 3: Forms & Downloads | Application forms, PDF conversion, downloadable reports | ₱7,000 |
-| Phase 4: Tools & Tracking | Project estimator, unit tracking system | ₱8,000 |
+| Phase 4: Project Estimator | Basic project estimation tool with calculation functions | ₱8,000 |
+| Phase 5: GPS Tracking System | GPS-based truck and heavy equipment location tracking | ₱15,000 |
 
 **Benefits:**
 - Pay only for completed phases
@@ -70,7 +71,7 @@ Based on our discussion, we understand that you require the following key compon
 
 | Component | Details | Cost (PHP) |
 |-----------|---------|------------|
-| Complete Website Development | All features implemented at once | ₱25,000 |
+| Complete Website Development | All features implemented at once | ₱35,000 |
 | Content Population | Assistance with initial content setup | Included |
 | Training | Admin panel usage and content management | Included |
 | Monthly Support | Updates, maintenance, and technical support | ₱2,500/month |
@@ -93,6 +94,7 @@ Based on our discussion, we understand that you require the following key compon
 | Self-Management Tools | Simple CMS for content updates | Included |
 | Logo Enhancement | Professional logo refinement | Included |
 | Future Expansion | Add additional features as needed | ₱4,000 - ₱6,000 per feature |
+| GPS Tracking (Optional Add-on) | Truck and heavy equipment GPS tracking system | ₱15,000 |
 
 **Benefits:**
 - Most economical starting point
