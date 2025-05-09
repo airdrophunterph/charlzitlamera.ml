@@ -34,7 +34,7 @@ This quotation outlines the costs for integrating SMS notifications, email notif
 
 ## Additional Notes
 - All prices are in Philippine Pesos (₱)
-- Prices reflect typical Philippine freelancer programmer rates (not agency rates)
+- Prices reflect typical Philippine programmer rates (not agency rates)
 - Prices shown as ranges to account for varying freelancer experience levels
 - Prices exclude applicable VAT/taxes
 - Hardware costs (terminals, scanners, printers) are not included
