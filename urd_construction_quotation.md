@@ -57,14 +57,14 @@ Based on our discussion, we understand that you require the following key compon
 
 | Phase | Deliverables | Cost (PHP) |
 |-----------|---------|------------|
-| Phase 1: Landing Page & Branding | Company profile, responsive design, logo enhancement | ₱15,000 |
+| Phase 1: Landing Page & Branding | Company profile, responsive design, logo enhancement | ₱10,000 |
 | Phase 2: Content Management | CMS implementation, create/edit/delete functionality | ₱8,000 |
 | Phase 3: Forms & Downloads | Application forms, PDF conversion, downloadable reports | ₱7,000 |
 | Phase 4: Project Estimator | Basic project estimation tool with calculation functions | ₱8,000 |
 | Phase 5: GPS Tracking System | Advanced GPS-based truck and heavy equipment tracking with real-time monitoring, history playback, and mobile access | ₱50,000 |
-| **Subtotal (Development)** | **All phases combined** | **₱88,000** |
+| **Subtotal (Development)** | **All phases combined** | **₱83,000** |
 | Domain & Hosting (Annual) | Domain, hosting, SSL, email (first year) | ₱39,400 |
-| **TOTAL FIRST YEAR INVESTMENT** | **Development + Domain & Hosting** | **₱127,400** |
+| **TOTAL FIRST YEAR INVESTMENT** | **Development + Domain & Hosting** | **₱122,400** |
 
 **Benefits:**
 - Pay only for completed phases
@@ -163,6 +163,42 @@ Based on our discussion, we understand that you require the following key compon
 - Adjust implementation priorities as business needs evolve
 - Complete solution including GPS tracking by end of year
 - No large upfront capital expenditure
+
+---
+
+### Option 6: Strategic Partnership Model
+**Payment Structure: Reduced Rates in Exchange for Equity Partnership**
+
+| Component | Details | Cost (PHP) |
+|-----------|---------|------------|
+| Complete Website Development | All standard features including GPS tracking | ₱40,000 (60% discount) |
+| Monthly Support & Hosting | Ongoing maintenance and updates | ₱2,000/month |
+| Partnership Terms | 5% equity stake in URD CONSTRUCTION | Based on valuation |
+| Legal Structure | Partnership agreement & shareholder contract | Included |
+| Development Priority | Expedited implementation & dedicated team | Included |
+| Business Consulting | Digital strategy & technology roadmap | Included |
+| **INITIAL INVESTMENT** | **Discounted development fee** | **₱40,000** |
+| **ONGOING MONTHLY** | **Reduced support fee** | **₱2,000/month** |
+| **EQUITY EXCHANGE** | **Company shares** | **5%** |
+
+**Benefits for URD CONSTRUCTION:**
+- Significantly reduced upfront development costs
+- Lower ongoing maintenance fees
+- Access to premium technology services and consulting
+- Aligned incentives for long-term success
+- Technology partner invested in your business growth
+
+**Benefits for SKYCODE:**
+- Equity position in growing construction business
+- Long-term relationship with recurring revenue
+- Opportunity to contribute to business strategy
+- Portfolio showcase in construction industry
+
+**Partnership Requirements:**
+- Company valuation document or agreement on valuation method
+- Legal partnership agreement defining equity terms
+- Quarterly business review meetings
+- Minimum 3-year partnership commitment
 
 ---
 
