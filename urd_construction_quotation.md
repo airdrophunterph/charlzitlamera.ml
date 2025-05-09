@@ -45,6 +45,11 @@ Based on our discussion, we understand that you require the following key compon
    - Terms of service and privacy policy
    - Necessary legal disclosures for construction business
 
+5. **Domain & Hosting**
+   - Domain name registration
+   - Business-grade hosting solution
+   - SSL certificate for secure connections
+
 ## Development Options
 
 ### Option 1: Phased Development Model
@@ -56,7 +61,10 @@ Based on our discussion, we understand that you require the following key compon
 | Phase 2: Content Management | CMS implementation, create/edit/delete functionality | ₱8,000 |
 | Phase 3: Forms & Downloads | Application forms, PDF conversion, downloadable reports | ₱7,000 |
 | Phase 4: Project Estimator | Basic project estimation tool with calculation functions | ₱8,000 |
-| Phase 5: GPS Tracking System | GPS-based truck and heavy equipment location tracking | ₱15,000 |
+| Phase 5: GPS Tracking System | Advanced GPS-based truck and heavy equipment tracking with real-time monitoring, history playback, and mobile access | ₱50,000 |
+| **Subtotal (Development)** | **All phases combined** | **₱83,000** |
+| Domain & Hosting (Annual) | Domain, hosting, SSL, email (first year) | ₱39,400 |
+| **TOTAL FIRST YEAR INVESTMENT** | **Development + Domain & Hosting** | **₱122,400** |
 
 **Benefits:**
 - Pay only for completed phases
@@ -71,11 +79,14 @@ Based on our discussion, we understand that you require the following key compon
 
 | Component | Details | Cost (PHP) |
 |-----------|---------|------------|
-| Complete Website Development | All features implemented at once | ₱35,000 |
+| Complete Website Development | All features implemented at once | ₱70,000 |
 | Content Population | Assistance with initial content setup | Included |
 | Training | Admin panel usage and content management | Included |
-| Monthly Support | Updates, maintenance, and technical support | ₱2,500/month |
+| Monthly Support | Updates, maintenance, technical support, and hosting | ₱3,500/month |
 | Additional Feature Requests | Post-launch enhancements | ₱3,000 - ₱5,000 per feature |
+| **Subtotal (Development)** | **One-time implementation cost** | **₱70,000** |
+| Domain & Hosting (Annual) | Domain, hosting, SSL included in monthly support | Included |
+| **TOTAL FIRST YEAR INVESTMENT** | **Development + 12 months support** | **₱112,000** |
 
 **Benefits:**
 - Fastest route to complete website launch
@@ -94,7 +105,12 @@ Based on our discussion, we understand that you require the following key compon
 | Self-Management Tools | Simple CMS for content updates | Included |
 | Logo Enhancement | Professional logo refinement | Included |
 | Future Expansion | Add additional features as needed | ₱4,000 - ₱6,000 per feature |
-| GPS Tracking (Optional Add-on) | Truck and heavy equipment GPS tracking system | ₱15,000 |
+| GPS Tracking (Optional Add-on) | Advanced truck and heavy equipment GPS tracking system | ₱50,000 |
+| **Subtotal (Basic Package)** | **Without GPS tracking** | **₱15,000** |
+| **Total with GPS Add-on** | **With GPS tracking system** | **₱65,000** |
+| Domain & Hosting (Annual) | Domain, hosting, SSL, email (first year) | ₱39,400 |
+| **TOTAL FIRST YEAR INVESTMENT** | **Basic + Domain & Hosting** | **₱54,400** |
+| **TOTAL FIRST YEAR WITH GPS** | **With GPS tracking + Domain & Hosting** | **₱104,400** |
 
 **Benefits:**
 - Most economical starting point
@@ -103,6 +119,15 @@ Based on our discussion, we understand that you require the following key compon
 - Maintain professional appearance while controlling costs
 
 ---
+
+## Domain & Hosting Details
+
+| Service | Description | Cost (PHP) |
+|---------|-------------|------------|
+| Domain Registration | .com domain (annual) | ₱1,200/year |
+| Business Hosting | Managed server with backup and security | ₱1,800/month |
+| SSL Certificate | Data encryption and secure transactions | ₱1,000/year |
+| Email Accounts | Professional email addresses with company domain | ₱500/month |
 
 ## Terms and Conditions
 
