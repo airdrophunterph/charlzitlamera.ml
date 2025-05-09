@@ -150,12 +150,12 @@ Based on our discussion, we understand that you require the following key compon
 | Component | Details | Cost (PHP) |
 |-----------|---------|------------|
 | Initial Setup | Landing page, logo, basic CMS | ₱15,000 |
-| Monthly Implementation | Gradual feature deployment over 12 months | ₱5,000/month |
+| Monthly Implementation | Gradual feature deployment over 12 months | ₱7,000/month |
 | GPS Tracking System | Implemented in month 6-8 | Included in monthly fee |
 | Domain & Hosting | Annual business hosting package | ₱2,500/month (included) |
 | **INITIAL PAYMENT** | **To start development** | **₱15,000** |
-| **MONTHLY PAYMENT** | **For 12 months** | **₱5,000/month** |
-| **TOTAL FIRST YEAR COST** | **Initial + 12 monthly payments** | **₱75,000** |
+| **MONTHLY PAYMENT** | **For 12 months** | **₱7,000/month** |
+| **TOTAL FIRST YEAR COST** | **Initial + 12 monthly payments** | **₱99,000** |
 
 **Benefits:**
 - Lower initial investment
